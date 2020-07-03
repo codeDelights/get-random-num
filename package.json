@@ -1,0 +1,23 @@
+{
+  "name": "get-random-num",
+  "version": "1.0.0",
+  "description": "Get Random number",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeDelights/get-random-num.git"
+  },
+  "keywords": [
+    "random",
+    "number"
+  ],
+  "author": "Karthikeyan P",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeDelights/get-random-num/issues"
+  },
+  "homepage": "https://github.com/codeDelights/get-random-num#readme"
+}
